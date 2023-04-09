@@ -4,7 +4,7 @@ title: My Third Blog Post
 author: Astro Learner
 description: "I had some challenges, but asking in the community really helped!"
 image: 
-    url: "https://astro.build/assets/blog/community-day/cover.jpg"
+    url: "https://astro.build/_astro/contributors.b35de3de.webp"
     alt: "The word community with a heart."
 pubDate: 2023-04-16
 tags: ["astro", "learning in public", "setbacks", "community"]
